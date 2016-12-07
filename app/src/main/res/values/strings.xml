@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMap</string>
+    <string name="demo_name_basemap">基本地图功能</string>
+    <string name="demo_name_location">定位图层展示</string>
+    <string name="demo_name_route">路径规划功能</string>
+    <string name="demo_name_poi">POI搜索功能</string>
+    <string name="key_error">"请在  DemoApplication.java文件输入正确的授权Key！"</string>
+    <string name="location">定位</string>
+    <string name="route_plan">路径规划</string>
+    <string name="offline_map">离线地图</string>
+    <string name="nearby_search">附近</string>
+    <string name="about">关于</string>
+    <string name="mode_putong">普通</string>
+    <string name="mode_gensui">跟随</string>
+    <string name="mode_luopan">罗盘</string>
+    <string name="map_zhengchang">正常图</string>
+    <string name="map_weixing">卫星图</string>
+    <string name="map_traffic">交通图</string>
+    <string name="map_heat">热力图</string>
+    <string name="input_city">输入城市</string>
+    <string name="search">搜索</string>
+    <string name="city_list">城市列表</string>
+    <string name="download_manage">下载管理</string>
+    <string name="hasdownload">已下载:--</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="delete">删除</string>
+    <string name="hotcity">热门城市</string>
+    <string name="allcountry">全国</string>
+    <string name="download_city">已下载城市</string>
+    <string name="number">131</string>
+    <string name="starting_point">起点：</string>
+    <string name="my_location">我的位置</string>
+    <string name="drive_search">驾车搜索</string>
+    <string name="bus_search">公交搜索</string>
+    <string name="walk_search">步行搜索</string>
+    <string name="destination">终点</string>
+    <string name="route_info">路线详情</string>
+    <string name="see">查看</string>
+
+</resources>

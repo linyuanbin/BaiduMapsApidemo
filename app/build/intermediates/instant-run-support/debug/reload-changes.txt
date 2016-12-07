@@ -1,0 +1,3 @@
+CHANGED,E:\AndroidstudioFile\BaiduMapsApiDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\baidumapsdk\demo\BMapApiDemoMain$override.class
+CHANGED,E:\AndroidstudioFile\BaiduMapsApiDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\baidumapsdk\demo\BMapApiDemoMain$SDKReceiver$override.class
+CHANGED,E:\AndroidstudioFile\BaiduMapsApiDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

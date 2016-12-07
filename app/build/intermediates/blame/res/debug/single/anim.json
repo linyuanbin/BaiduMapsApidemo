@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    }
+]

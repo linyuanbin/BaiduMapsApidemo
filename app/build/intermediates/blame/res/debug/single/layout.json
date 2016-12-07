@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan2.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\activity_routeplan2.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rountinfo.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\rountinfo.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_popup.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\title_popup.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagebutton.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\imagebutton.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poidemo.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\activity_poidemo.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offline.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\offline.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\demo.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\activity_offline.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\activity_routeplan.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\listviewitem.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offline_localmap_list.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\offline_localmap_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\AndroidstudioFile\\BaiduMapsApiDemo\\app\\src\\main\\res\\layout\\about.xml"
+    }
+]
